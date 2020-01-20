@@ -1,7 +1,4 @@
-# Bootstrap-Portfolio
+#Personal Portfolio
 
-## 02_Week Assignment
+This personal website utilizes HTML and CSS as well as Bootstrap. The purpose of this site is to showcase projects created during UNH's Coding Bootcamp from September 2019 - March 2020.
 
-This website is essentially another version of the first assignment I created for the UNH Bootcamp, which was the Basic-Portfolio. While that project used only HTML and CSS, this project is meant to serve the same purpose and look similar, but I built it using Bootstrap almost exclusively. The goal of this project was to make the pages responsive to smaller screen sizes.
-
-Open the site in a browser to view it. 
